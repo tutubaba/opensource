@@ -7,5 +7,5 @@
 
 ## 代码片段
 
-- java
-- python
+- [java](src/javacode.md)
+- [python](src/pythoncode.md)
